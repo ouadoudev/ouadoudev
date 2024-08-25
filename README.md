@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything related to **Web Development**.**
 
-- 📫 How to reach me **uoaduomohamed.com**
+- 📫 How to reach me  [Email](mailto:uodauomohamed@gmail.com)
 
 - ⚡ Fun fact **I love working on personal projects that blend creativity with functionality.**
 
