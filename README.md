@@ -1,52 +1,91 @@
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Ouadou;This+is..;..my+Github.." alt="Typing SVG"/>
-  </h1>
-</div>
+# 👨‍💻 Ouadou Mohamed | Full-Stack Developer
 
-<div align="center">
-  <p>
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" />
-  </p>
-</div>
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for building scalable, high-performance web applications. I thrive on transforming complex ideas into seamless solutions and continuously expanding my knowledge of modern technologies.
 
-<div align="center">
-  <h2>🚀 About Me</h2>
-  <p>I'm a Full Stack Developer specializing in web development. I enjoy teaching math and physics.</p>
-</div>
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ouadoudev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://ouadoudev.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
+## 🚀 Projects
 
-<div align="center">
-  <h2>🛠️ Technologies & Tools</h2>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <!-- Add more badges similarly -->
-</div>
+### 1. **LMS Platform** (87% Complete)
+An innovative Learning Management System allowing users to create courses, take quizzes, and manage their learning experience.  
+- **Tech Stack:** React, Redux Toolkit, Node.js, MongoDB, Tailwind CSS  
+- [🔗 View Repository](https://github.com/OuadouMohamed/lms-platform)
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=ouadoudev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouadoudev&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### 2. **Portfolio Website**
+A professional portfolio showcasing my projects, skills, and experience in the tech industry.  
+- **Tech Stack:** React, Tailwind CSS  
+- [🔗 View Repository](https://github.com/OuadouMohamed/portfolio)
 
-<div align="center">
-  <h2>🐍 GitHub Contribution Snake</h2>
-  <img src="https://raw.githubusercontent.com/ouadoudev/ouadoudev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+### 3. **Discussion Forum Component**
+A forum system where users can ask questions, give answers, and interact with fellow learners. Integrated into the LMS Platform.  
+- **Tech Stack:** React, Redux Toolkit, Node.js  
+- [🔗 View Repository](https://github.com/OuadouMohamed/forum-component)
 
-<div align="center">
-  <h2>📫 How to reach me</h2>
-  <p>Email: ouadoudev@example.com</p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/ouadoudev/">Ouadou</a></p>
-</div>
+---
+
+## 🛠️ Skills & Technologies
+
+### **Frontend:**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript" />
+</p>
+
+### **Backend:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+</p>
+
+### **Other Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="Jira" />
+  <img src="https://img.shields.io/badge/CI%2FCD-3C873A?logo=githubactions&logoColor=white&style=for-the-badge" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
+</p>
+
+---
+
+## 📝 Blog Posts
+
+Check out some of my recent articles on software development:
+
+- [How to Optimize React Applications for Better Performance](https://yourblog.com/react-performance)
+- [Understanding Redux Toolkit: A Beginner's Guide](https://yourblog.com/redux-toolkit-guide)
+
+---
+
+## 📬 Contact Me
+
+Feel free to reach out for collaboration, questions, or opportunities!
+
+- **Email:** uoaduomohamed@gmail.com
+- **LinkedIn:** [Ouadou Mohamed](https://linkedin.com/in/mohamedouadou)
+- **Portfolio:** [Visit My Website](https://portofolio-mohamed-ouadou.onrender.com)
+
+---
+
+## ⚡ Fun Fact:
+
+_"I love coding so much that even my errors have become my favorite teachers!"_
+
+---
+
+## 📊 GitHub Stats
+
+![Ouadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouadoudev&show_icons=true&theme=radical)
+
+---
+
+## 🏆 Top Repositories
+
+[![LMS Platform](https://github-readme-stats.vercel.app/api/pin/?username=Ouadoudev&repo=lms-platform&theme=radical)](https://github.com/Ouadoudev/lms-platform)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=OuadouMohamed&repo=portfolio&theme=radical)](https://github.com/OuadouMohamed/portfolio)
