@@ -57,8 +57,6 @@ A forum system where users can ask questions, give answers, and interact with fe
 
 Check out some of my recent articles on software development:
 
-- [How to Optimize React Applications for Better Performance](https://yourblog.com/react-performance)
-- [Understanding Redux Toolkit: A Beginner's Guide](https://yourblog.com/redux-toolkit-guide)
 
 ---
 
