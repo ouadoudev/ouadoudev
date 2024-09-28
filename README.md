@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for 
 ### 1. **LMS Platform** (87% Complete)
 An innovative Learning Management System allowing users to create courses, take quizzes, and manage their learning experience.  
 - **Tech Stack:** React, Redux Toolkit, Node.js, MongoDB, Tailwind CSS  
-- [🔗 View Repository](https://github.com/OuadouMohamed/lms-platform)
+- [🔗 View Repository](https://github.com/OuadouMohamed/lms)
 
 ### 2. **Portfolio Website**
 A professional portfolio showcasing my projects, skills, and experience in the tech industry.  
@@ -19,7 +19,7 @@ A professional portfolio showcasing my projects, skills, and experience in the t
 ### 3. **Discussion Forum Component**
 A forum system where users can ask questions, give answers, and interact with fellow learners. Integrated into the LMS Platform.  
 - **Tech Stack:** React, Redux Toolkit, Node.js  
-- [🔗 View Repository](https://github.com/OuadouMohamed/forum-component)
+- [🔗 View Repository](https://github.com/OuadouMohamed/lms)
 
 ---
 
