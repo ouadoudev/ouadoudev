@@ -9,17 +9,17 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for 
 ### 1. **LMS Platform** (87% Complete)
 An innovative Learning Management System allowing users to create courses, take quizzes, and manage their learning experience.  
 - **Tech Stack:** React, Redux Toolkit, Node.js, MongoDB, Tailwind CSS  
-- [🔗 View Repository](https://github.com/OuadouMohamed/lms)
+- [🔗 View Repository](https://github.com/ouadoudev/LMS)
 
 ### 2. **Portfolio Website**
 A professional portfolio showcasing my projects, skills, and experience in the tech industry.  
 - **Tech Stack:** Next js, Accernity UI and Tailwind CSS  
-- [🔗 View Repository](https://github.com/OuadouMohamed/portfolio)
+- [🔗 View Repository](https://github.com/ouadoudev/Portfolio)
 
 ### 3. **Discussion Forum Component**
 A forum system where users can ask questions, give answers, and interact with fellow learners. Integrated into the LMS Platform.  
 - **Tech Stack:** React, Redux Toolkit, Node.js  
-- [🔗 View Repository](https://github.com/OuadouMohamed/lms)
+- [🔗 View Repository](https://github.com/ouadoudev/LMS)
 
 ---
 
@@ -85,6 +85,6 @@ _"I love coding so much that even my errors have become my favorite teachers!"_
 
 ## 🏆 Top Repositories
 
-[![LMS Platform](https://github-readme-stats.vercel.app/api/pin/?username=Ouadoudev&repo=lms-platform&theme=radical)](https://github.com/Ouadoudev/lms-platform)
+[![LMS Platform](https://github-readme-stats.vercel.app/api/pin/?username=Ouadoudev&repo=LMS&theme=radical)](https://github.com/Ouadoudev/LMS)
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=OuadouMohamed&repo=portfolio&theme=radical)](https://github.com/OuadouMohamed/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=OuadouMohamed&repo=portfolio&theme=radical)](https://github.com/ouadoudev/Portfolio)
