@@ -13,7 +13,7 @@ An innovative Learning Management System allowing users to create courses, take 
 
 ### 2. **Portfolio Website**
 A professional portfolio showcasing my projects, skills, and experience in the tech industry.  
-- **Tech Stack:** React, Tailwind CSS  
+- **Tech Stack:** Next js, Accernity UI and Tailwind CSS  
 - [🔗 View Repository](https://github.com/OuadouMohamed/portfolio)
 
 ### 3. **Discussion Forum Component**
@@ -29,6 +29,7 @@ A forum system where users can ask questions, give answers, and interact with fe
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-cc0000?logo=angular&logoColor=white&style=for-the-badge" alt="Angular" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript" />
