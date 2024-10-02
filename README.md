@@ -79,7 +79,7 @@ _"I love coding so much that even my errors have become my favorite teachers!"_
 
 ## 📊 GitHub Stats
 
-![Ouadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ouadoudev&show_icons=true&theme=radical)
+![Ouadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouadoudev&show_icons=true&theme=radical)
 
 ---
 
