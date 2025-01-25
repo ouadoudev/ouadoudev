@@ -37,6 +37,7 @@ A forum system where users can ask questions, provide answers, and interact with
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" />
   <img src="https://img.shields.io/badge/MATLAB-EF7C1B?logo=matlab&logoColor=white&style=flat" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat" alt="Arduino" />
 </p>
